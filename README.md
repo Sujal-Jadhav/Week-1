@@ -20,7 +20,7 @@ Matplotlib
 Scikit-learn
 Installation
 
-Clone the repository using git clone https://github.com/provikash/cnn-model-for-waste-management.git
+Clone the repository using git clone https://github.com/Sujal-Jadhav/Week-1.git
 Install the required dependencies using pip install -r requirements.txt
 Usage
 
